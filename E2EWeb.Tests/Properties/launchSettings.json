@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "E2EWeb.Tests": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "CUSTOM_ENVIROMENT": "E2E"
+      }
+    }
+  }
+}
